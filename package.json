@@ -1,0 +1,20 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "This repository gives you the code you'll need to kickstart a personal website that showcases your work as a software developer. And when you manage the code in a GitHub repository, it will automatically render a webpage with the owner's profile information, including a photo, bio, and repositories.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MessiDaGod/personal-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MessiDaGod/personal-website/issues"
+  },
+  "homepage": "https://github.com/MessiDaGod/personal-website#readme"
+}
